@@ -1,0 +1,9 @@
+D:\INFORMATIKA\SEMESTER 2\PBO\crud jek\obj\Debug\net6.0-windows\crud jek.csproj.AssemblyReference.cache
+D:\INFORMATIKA\SEMESTER 2\PBO\crud jek\obj\Debug\net6.0-windows\crud_jek.Form1.resources
+D:\INFORMATIKA\SEMESTER 2\PBO\crud jek\obj\Debug\net6.0-windows\crud_jek.Form2.resources
+D:\INFORMATIKA\SEMESTER 2\PBO\crud jek\obj\Debug\net6.0-windows\crud_jek.Form3.resources
+D:\INFORMATIKA\SEMESTER 2\PBO\crud jek\obj\Debug\net6.0-windows\crud jek.csproj.GenerateResource.cache
+D:\INFORMATIKA\SEMESTER 2\PBO\crud jek\obj\Debug\net6.0-windows\crud jek.GeneratedMSBuildEditorConfig.editorconfig
+D:\INFORMATIKA\SEMESTER 2\PBO\crud jek\obj\Debug\net6.0-windows\crud jek.AssemblyInfoInputs.cache
+D:\INFORMATIKA\SEMESTER 2\PBO\crud jek\obj\Debug\net6.0-windows\crud jek.AssemblyInfo.cs
+D:\INFORMATIKA\SEMESTER 2\PBO\crud jek\obj\Debug\net6.0-windows\crud jek.csproj.CoreCompileInputs.cache
